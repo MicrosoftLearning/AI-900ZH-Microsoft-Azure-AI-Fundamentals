@@ -6,7 +6,7 @@ lab:
 ## 说明
 本实验室介绍如何使用 Azure 机器学习中的自动化机器学习。
 
-1.	转到 Microsoft Learn 模块 (+++https://docs.microsoft.com/learn/modules/use-automated-machine-learning/+++)，并在浏览器中完成以下单元： 
+1.	转到 Microsoft Learn 模块 +++https://docs.microsoft.com/learn/modules/use-automated-machine-learning/+++ 并在浏览器中完成以下单元： 
 
 - 什么是机器学习？ 
 - 创建 Azure 机器学习工作区

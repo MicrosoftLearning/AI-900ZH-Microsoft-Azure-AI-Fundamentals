@@ -13,7 +13,7 @@
 > pip install ipython jupyter matplotlib pillow requests azure-cognitiveservices-vision-computervision azure-cognitiveservices-vision-customvision azure-cognitiveservices-vision-face azure-cognitiveservices-language-textanalytics azure.cognitiveservices.speech azure_ai_formrecognizer 
 
 ### Visual Studio Code 
-1. 如果尚未安装 Visual Studio Code，[请在此处下载]](https://code.visualstudio.com/Download)。安装后，启动 Visual Studio Code 并在“扩展”选项卡 (CTRL+SHIFT+X) 上搜索并安装 Microsoft 提供的 **Python** 扩展。
+1. 如果尚未安装 Visual Studio Code，[请在此处下载](https://code.visualstudio.com/Download)。安装后，启动 Visual Studio Code 并在“扩展”选项卡 (CTRL+SHIFT+X) 上搜索并安装 Microsoft 提供的 **Python** 扩展。
 
-2. 在 Visual Studio Code 中打开一个新的终端，键入 **git clone https://github.com/MicrosoftLearning/mslearn-ai900** 并按 **Enter**。 
+2. 在 Visual Studio Code 中打开一个新的终端，键入 **git clone https://github.com/MicrosoftLearning/AI-900ZH-Microsoft-Azure-AI-Fundamentals** 并按 **Enter**。 
 
