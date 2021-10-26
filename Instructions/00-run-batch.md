@@ -6,4 +6,4 @@
 
 ![Visual Studio Code 图标](./images/vscode.jpg)
 
-3. 打开该程序后，应该能在左侧面板上看见 MSLEARN-AI900 项目。此文件包含本课程的实验室。 
+3. 打开该程序后，应该能在左侧面板上看见 MSLEARN-AI900 项目。此文件夹包含本课程的实验室。 
